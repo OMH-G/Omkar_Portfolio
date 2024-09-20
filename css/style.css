@@ -2679,7 +2679,7 @@ h6 {
           transform: translate(-50%, -50%);
           width: 50px;
           height: 50px;
-          background-image: url('../img/logo.png'); /* Path to your GitHub logo image */
+          background-image: url('../img/github.png'); /* Path to your GitHub logo image */
           background-size: cover;
           opacity: 0;
           z-index: 2; /* Ensure icon is above the overlay */
