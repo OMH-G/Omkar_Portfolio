@@ -84,7 +84,7 @@ button:focus {
 /*---------------------------------------------------- */
 /*----------------------------------------------------*/
 .section_gap {
-  padding: 200px 0; }
+  padding: 100px 0; }
   @media (max-width: 1199px) {
     .section_gap {
       padding: 80px 0; } }
@@ -2606,8 +2606,7 @@ h6 {
 ============================================================================================ */
 /* Start Portfolio Area css
 ============================================================================================ */
-.portfolio_area {
-  padding-bottom: 120px; }
+
   @media (max-width: 991px) {
     .portfolio_area {
       padding-bottom: 50px; } }
@@ -3298,7 +3297,6 @@ h6 {
     content: none; }
 
 .footer_area {
-  padding: 120px 0;
   position: relative; }
   .footer_area:before {
     content: '';
